@@ -1,0 +1,9 @@
+Variable,No_Of_Rows,No_Of_Rows,Data Types,Observation
+Car Make,1008,1,string,A list of car manufacturers
+Car Model,1008,2,string,A list of Car models
+Year,1008,3,Integer,A list of data that states the date of car manufacture
+Engine Size (L),1008,4,float,A list of the volume of fuel and air that be pusched through a car
+Horsepower,1008,5,string,A List of measurement used to calculate how quickly the force is produce
+Torque (lb-ft),1008,6,string,A list of the rotational force created by an engine 
+0-60 MPH Time (seconds),1008,7,flout,A list of acceleration in 60 seconds
+Price (in USD),1008,8,flout,A list of car for sale
