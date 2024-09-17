@@ -1,0 +1,9 @@
+Variable,No-of-colums,No-of-rows,Data Types
+Computer ID,1,5,string
+Brand,2,5,string
+Model,3,5,string
+Processor,4,5,string
+RAM (GB),5,5,string
+Storage (GB),6,5,string
+Graphics Card,7,5,string
+Price ($),8,5,string
